@@ -1,0 +1,55 @@
+@media (max-width: 600px) {
+    .conteudo {
+        width: 350px;
+        height: 800px;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .foto img {
+        display: flex;
+        width: 350px;
+        position: absolute;
+        padding-left: 0px;
+        top: 50px;
+        left: 50%;
+        margin-left: -175px;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        border-bottom-right-radius: 0%;
+    }
+
+    .textos {
+        margin-top: 330px;
+    }
+
+    .paragrafo {
+        margin: 0 auto;
+        width: 300px;
+        
+    }
+
+    .paragrafo p {
+        width: 280px;
+        padding: 15px 0 40px;
+        margin: 0 auto;
+    }
+
+    .dados{
+        text-align: center;
+        display: block;
+        width: 70px;
+        margin: 0px auto;
+    }
+
+    .dados .d1, .dados .d2 {
+        padding-right: 0px;
+    }
+
+    .d2, .d3{
+        padding-top: 25px;
+    }
+ 
+}
