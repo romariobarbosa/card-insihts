@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@romariobarbosa](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@romariobarbosa](https://www.frontendmentor.io/profile/romariobarbosa)
 - LinkedIn - [Romario Barbosa](https://www.linkedin.com/in/romario-barbosa-744650138/)
